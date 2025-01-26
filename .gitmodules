@@ -1,0 +1,3 @@
+[submodule "scripts/amtraker-v3"]
+	path = scripts/amtraker-v3
+	url = git@github.com:piemadd/amtraker-v3.git
